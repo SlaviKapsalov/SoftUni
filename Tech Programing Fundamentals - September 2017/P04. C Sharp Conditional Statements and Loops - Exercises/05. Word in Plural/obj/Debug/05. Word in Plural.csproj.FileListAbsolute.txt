@@ -1,0 +1,5 @@
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sh Conditional Statements and Loops-Ex\05. Word in Plural\bin\Debug\_05.Word_in_Plural.exe.config
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sh Conditional Statements and Loops-Ex\05. Word in Plural\bin\Debug\_05.Word_in_Plural.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sh Conditional Statements and Loops-Ex\05. Word in Plural\bin\Debug\_05.Word_in_Plural.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sh Conditional Statements and Loops-Ex\05. Word in Plural\obj\Debug\_05.Word_in_Plural.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sh Conditional Statements and Loops-Ex\05. Word in Plural\obj\Debug\_05.Word_in_Plural.pdb

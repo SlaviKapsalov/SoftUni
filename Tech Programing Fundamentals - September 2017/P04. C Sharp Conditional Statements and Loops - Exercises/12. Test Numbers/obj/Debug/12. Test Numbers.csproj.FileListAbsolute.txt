@@ -1,0 +1,5 @@
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sh Conditional Statements and Loops-Ex\12. Test Numbers\bin\Debug\_12.Test_Numbers.exe.config
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sh Conditional Statements and Loops-Ex\12. Test Numbers\bin\Debug\_12.Test_Numbers.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sh Conditional Statements and Loops-Ex\12. Test Numbers\bin\Debug\_12.Test_Numbers.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sh Conditional Statements and Loops-Ex\12. Test Numbers\obj\Debug\_12.Test_Numbers.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sh Conditional Statements and Loops-Ex\12. Test Numbers\obj\Debug\_12.Test_Numbers.pdb

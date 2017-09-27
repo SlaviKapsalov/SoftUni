@@ -1,0 +1,5 @@
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sh Conditional Statements and Loops-Ex\06. Interval of Numbers\bin\Debug\_06.Interval_of_Numbers.exe.config
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sh Conditional Statements and Loops-Ex\06. Interval of Numbers\bin\Debug\_06.Interval_of_Numbers.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sh Conditional Statements and Loops-Ex\06. Interval of Numbers\bin\Debug\_06.Interval_of_Numbers.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sh Conditional Statements and Loops-Ex\06. Interval of Numbers\obj\Debug\_06.Interval_of_Numbers.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sh Conditional Statements and Loops-Ex\06. Interval of Numbers\obj\Debug\_06.Interval_of_Numbers.pdb

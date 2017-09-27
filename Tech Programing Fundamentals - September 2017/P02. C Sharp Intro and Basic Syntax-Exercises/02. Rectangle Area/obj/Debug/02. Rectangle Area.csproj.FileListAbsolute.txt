@@ -1,0 +1,5 @@
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sharp Intro and Basic Syntax-Exercises\02. Rectangle Area\bin\Debug\_02.Rectangle_Area.exe.config
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sharp Intro and Basic Syntax-Exercises\02. Rectangle Area\bin\Debug\_02.Rectangle_Area.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sharp Intro and Basic Syntax-Exercises\02. Rectangle Area\bin\Debug\_02.Rectangle_Area.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sharp Intro and Basic Syntax-Exercises\02. Rectangle Area\obj\Debug\_02.Rectangle_Area.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sharp Intro and Basic Syntax-Exercises\02. Rectangle Area\obj\Debug\_02.Rectangle_Area.pdb

@@ -1,0 +1,5 @@
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\03 C S Conditional Statements and Loops-Lab\06. Theatre Promotion\bin\Debug\_06.Theatre_Promotion.exe.config
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\03 C S Conditional Statements and Loops-Lab\06. Theatre Promotion\bin\Debug\_06.Theatre_Promotion.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\03 C S Conditional Statements and Loops-Lab\06. Theatre Promotion\bin\Debug\_06.Theatre_Promotion.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\03 C S Conditional Statements and Loops-Lab\06. Theatre Promotion\obj\Debug\_06.Theatre_Promotion.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\03 C S Conditional Statements and Loops-Lab\06. Theatre Promotion\obj\Debug\_06.Theatre_Promotion.pdb

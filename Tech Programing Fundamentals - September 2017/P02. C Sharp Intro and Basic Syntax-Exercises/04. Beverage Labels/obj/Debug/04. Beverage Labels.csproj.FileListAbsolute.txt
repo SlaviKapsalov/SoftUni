@@ -1,0 +1,5 @@
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sharp Intro and Basic Syntax-Exercises\04. Beverage Labels\bin\Debug\_04.Beverage_Labels.exe.config
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sharp Intro and Basic Syntax-Exercises\04. Beverage Labels\bin\Debug\_04.Beverage_Labels.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sharp Intro and Basic Syntax-Exercises\04. Beverage Labels\bin\Debug\_04.Beverage_Labels.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sharp Intro and Basic Syntax-Exercises\04. Beverage Labels\obj\Debug\_04.Beverage_Labels.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sharp Intro and Basic Syntax-Exercises\04. Beverage Labels\obj\Debug\_04.Beverage_Labels.pdb

@@ -1,0 +1,5 @@
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sharp Intro and Basic Syntax-Exercises\05. Character Stats\bin\Debug\_05.Character_Stats.exe.config
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sharp Intro and Basic Syntax-Exercises\05. Character Stats\bin\Debug\_05.Character_Stats.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sharp Intro and Basic Syntax-Exercises\05. Character Stats\bin\Debug\_05.Character_Stats.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sharp Intro and Basic Syntax-Exercises\05. Character Stats\obj\Debug\_05.Character_Stats.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sharp Intro and Basic Syntax-Exercises\05. Character Stats\obj\Debug\_05.Character_Stats.pdb

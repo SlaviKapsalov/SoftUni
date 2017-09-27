@@ -1,0 +1,6 @@
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sh Conditional Statements and Loops-Ex\04. Hotel\bin\Debug\_04.Hotel.exe.config
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sh Conditional Statements and Loops-Ex\04. Hotel\bin\Debug\_04.Hotel.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sh Conditional Statements and Loops-Ex\04. Hotel\bin\Debug\_04.Hotel.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sh Conditional Statements and Loops-Ex\04. Hotel\obj\Debug\04. Hotel.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sh Conditional Statements and Loops-Ex\04. Hotel\obj\Debug\_04.Hotel.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sh Conditional Statements and Loops-Ex\04. Hotel\obj\Debug\_04.Hotel.pdb

@@ -1,0 +1,5 @@
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\03 C S Conditional Statements and Loops-Lab\Problem 2. Passed or Failed\bin\Debug\Problem_2.Passed_or_Failed.exe.config
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\03 C S Conditional Statements and Loops-Lab\Problem 2. Passed or Failed\bin\Debug\Problem_2.Passed_or_Failed.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\03 C S Conditional Statements and Loops-Lab\Problem 2. Passed or Failed\bin\Debug\Problem_2.Passed_or_Failed.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\03 C S Conditional Statements and Loops-Lab\Problem 2. Passed or Failed\obj\Debug\Problem_2.Passed_or_Failed.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\03 C S Conditional Statements and Loops-Lab\Problem 2. Passed or Failed\obj\Debug\Problem_2.Passed_or_Failed.pdb

@@ -1,0 +1,6 @@
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sh Conditional Statements and Loops-Ex\11. 5 Different Numbers\bin\Debug\11. 5 Different Numbers.exe.config
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sh Conditional Statements and Loops-Ex\11. 5 Different Numbers\bin\Debug\11. 5 Different Numbers.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sh Conditional Statements and Loops-Ex\11. 5 Different Numbers\bin\Debug\11. 5 Different Numbers.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sh Conditional Statements and Loops-Ex\11. 5 Different Numbers\obj\Debug\11. 5 Different Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sh Conditional Statements and Loops-Ex\11. 5 Different Numbers\obj\Debug\11. 5 Different Numbers.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sh Conditional Statements and Loops-Ex\11. 5 Different Numbers\obj\Debug\11. 5 Different Numbers.pdb

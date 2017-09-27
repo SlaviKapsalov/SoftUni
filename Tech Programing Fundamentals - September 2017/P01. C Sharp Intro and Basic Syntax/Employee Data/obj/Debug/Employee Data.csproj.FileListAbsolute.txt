@@ -1,0 +1,6 @@
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\Solution1\Employee Data\bin\Debug\Employee Data.exe.config
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\Solution1\Employee Data\bin\Debug\Employee Data.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\Solution1\Employee Data\bin\Debug\Employee Data.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\Solution1\Employee Data\obj\Debug\Employee Data.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\Solution1\Employee Data\obj\Debug\Employee Data.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\Solution1\Employee Data\obj\Debug\Employee Data.csprojResolveAssemblyReference.cache

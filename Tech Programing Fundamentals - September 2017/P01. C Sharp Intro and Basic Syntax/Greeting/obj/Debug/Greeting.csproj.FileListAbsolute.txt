@@ -1,0 +1,6 @@
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\Solution1\Greeting\obj\Debug\Greeting.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\Solution1\Greeting\bin\Debug\Greeting.exe.config
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\Solution1\Greeting\bin\Debug\Greeting.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\Solution1\Greeting\bin\Debug\Greeting.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\Solution1\Greeting\obj\Debug\Greeting.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\Solution1\Greeting\obj\Debug\Greeting.pdb

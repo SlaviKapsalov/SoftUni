@@ -1,0 +1,5 @@
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\03 C S Conditional Statements and Loops-Lab\07. Divisible by 3\bin\Debug\_07.Divisible_by_3.exe.config
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\03 C S Conditional Statements and Loops-Lab\07. Divisible by 3\bin\Debug\_07.Divisible_by_3.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\03 C S Conditional Statements and Loops-Lab\07. Divisible by 3\bin\Debug\_07.Divisible_by_3.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\03 C S Conditional Statements and Loops-Lab\07. Divisible by 3\obj\Debug\_07.Divisible_by_3.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\03 C S Conditional Statements and Loops-Lab\07. Divisible by 3\obj\Debug\_07.Divisible_by_3.pdb

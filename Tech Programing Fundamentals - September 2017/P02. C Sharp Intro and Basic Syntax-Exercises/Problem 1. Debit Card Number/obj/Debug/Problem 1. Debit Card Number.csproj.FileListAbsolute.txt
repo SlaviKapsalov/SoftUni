@@ -1,0 +1,6 @@
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sharp Intro and Basic Syntax-Exercises\Problem 1. Debit Card Number\bin\Debug\Problem_1.Debit_Card_Number.exe.config
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sharp Intro and Basic Syntax-Exercises\Problem 1. Debit Card Number\bin\Debug\Problem_1.Debit_Card_Number.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sharp Intro and Basic Syntax-Exercises\Problem 1. Debit Card Number\bin\Debug\Problem_1.Debit_Card_Number.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sharp Intro and Basic Syntax-Exercises\Problem 1. Debit Card Number\obj\Debug\Problem 1. Debit Card Number.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sharp Intro and Basic Syntax-Exercises\Problem 1. Debit Card Number\obj\Debug\Problem_1.Debit_Card_Number.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sharp Intro and Basic Syntax-Exercises\Problem 1. Debit Card Number\obj\Debug\Problem_1.Debit_Card_Number.pdb

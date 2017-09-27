@@ -1,0 +1,5 @@
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sharp Intro and Basic Syntax-Exercises\03. Miles to Kilometers\bin\Debug\_03.Miles_to_Kilometers.exe.config
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sharp Intro and Basic Syntax-Exercises\03. Miles to Kilometers\bin\Debug\_03.Miles_to_Kilometers.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sharp Intro and Basic Syntax-Exercises\03. Miles to Kilometers\bin\Debug\_03.Miles_to_Kilometers.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sharp Intro and Basic Syntax-Exercises\03. Miles to Kilometers\obj\Debug\_03.Miles_to_Kilometers.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\C Sharp Intro and Basic Syntax-Exercises\03. Miles to Kilometers\obj\Debug\_03.Miles_to_Kilometers.pdb

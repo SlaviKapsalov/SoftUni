@@ -1,0 +1,5 @@
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\Solution1\Add Two Numbers\bin\Debug\Add Two Numbers.exe.config
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\Solution1\Add Two Numbers\bin\Debug\Add Two Numbers.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\Solution1\Add Two Numbers\bin\Debug\Add Two Numbers.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\Solution1\Add Two Numbers\obj\Debug\Add Two Numbers.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\Solution1\Add Two Numbers\obj\Debug\Add Two Numbers.pdb

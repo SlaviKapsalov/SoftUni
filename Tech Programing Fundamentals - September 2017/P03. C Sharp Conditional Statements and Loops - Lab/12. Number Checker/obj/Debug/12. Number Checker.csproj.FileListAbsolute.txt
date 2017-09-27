@@ -1,0 +1,6 @@
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\03 C S Conditional Statements and Loops-Lab\12. Number Checker\bin\Debug\_12.Number_Checker.exe.config
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\03 C S Conditional Statements and Loops-Lab\12. Number Checker\bin\Debug\_12.Number_Checker.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\03 C S Conditional Statements and Loops-Lab\12. Number Checker\bin\Debug\_12.Number_Checker.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\03 C S Conditional Statements and Loops-Lab\12. Number Checker\obj\Debug\12. Number Checker.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\03 C S Conditional Statements and Loops-Lab\12. Number Checker\obj\Debug\_12.Number_Checker.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\C#\03 C S Conditional Statements and Loops-Lab\12. Number Checker\obj\Debug\_12.Number_Checker.pdb
